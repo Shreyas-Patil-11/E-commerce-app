@@ -28,7 +28,7 @@ An E-commerce platform designed to provide a seamless shopping experience for us
 - **Secure Token-Based Authentication**: Used **JWT** (JSON Web Token) to enhance security for both user and admin interactions.
 
 ## Technology Stack
-- **Frontend**: React, Material UI
+- **Frontend**: React 
 - **Backend**: Node.js, Express.js, Multer
 - **Authentication**: JWT (JSON Web Token)
 - **Database**: MongoDB
