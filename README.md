@@ -5,7 +5,7 @@ An E-commerce platform designed to provide a seamless shopping experience for us
 
 ### Links
 - **Admin Side**: [https://stylesavvyadmin.vercel.app/](https://stylesavvyadmin.vercel.app/)
-- **Client Side**: [https://stylesavvyadmin.vercel.app/](https://stylesavvyadmin.vercel.app/)
+- **Client Side**: [https://stylsavvy.vercel.app/](https://stylsavvy.vercel.app/)
 
 ## Features
 
